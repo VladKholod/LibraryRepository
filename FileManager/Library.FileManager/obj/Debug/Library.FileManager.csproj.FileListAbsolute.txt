@@ -1,0 +1,9 @@
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\Library\FileManager\Library.FileManager\bin\Debug\Library.FileManager.dll
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\Library\FileManager\Library.FileManager\bin\Debug\Library.FileManager.pdb
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\Library\FileManager\Library.FileManager\obj\Debug\Library.FileManager.csprojResolveAssemblyReference.cache
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\Library\FileManager\Library.FileManager\obj\Debug\Library.FileManager.dll
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\Library\FileManager\Library.FileManager\obj\Debug\Library.FileManager.pdb
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\Library\FileManager\Library.FileManager\bin\Debug\Library.Core.dll
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\Library\FileManager\Library.FileManager\bin\Debug\Library.SerializeManager.dll
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\Library\FileManager\Library.FileManager\bin\Debug\Library.Core.pdb
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\Library\FileManager\Library.FileManager\bin\Debug\Library.SerializeManager.pdb

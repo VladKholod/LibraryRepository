@@ -1,0 +1,12 @@
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\Library\Application\Library.Application\obj\Debug\Library.Application.csprojResolveAssemblyReference.cache
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\Library\Application\Library.Application\bin\Debug\Library.Application.exe.config
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\Library\Application\Library.Application\bin\Debug\Library.Application.exe
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\Library\Application\Library.Application\bin\Debug\Library.Application.pdb
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\Library\Application\Library.Application\bin\Debug\Library.Core.dll
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\Library\Application\Library.Application\bin\Debug\Library.FileManager.dll
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\Library\Application\Library.Application\bin\Debug\Library.SerializeManager.dll
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\Library\Application\Library.Application\bin\Debug\Library.Core.pdb
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\Library\Application\Library.Application\bin\Debug\Library.FileManager.pdb
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\Library\Application\Library.Application\bin\Debug\Library.SerializeManager.pdb
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\Library\Application\Library.Application\obj\Debug\Library.Application.exe
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\Library\Application\Library.Application\obj\Debug\Library.Application.pdb

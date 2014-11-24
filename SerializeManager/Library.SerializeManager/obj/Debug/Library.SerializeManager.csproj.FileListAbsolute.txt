@@ -1,0 +1,7 @@
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\Library\SerializeManager\Library.SerializeManager\bin\Debug\Library.SerializeManager.dll
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\Library\SerializeManager\Library.SerializeManager\bin\Debug\Library.SerializeManager.pdb
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\Library\SerializeManager\Library.SerializeManager\obj\Debug\Library.SerializeManager.csprojResolveAssemblyReference.cache
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\Library\SerializeManager\Library.SerializeManager\obj\Debug\Library.SerializeManager.dll
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\Library\SerializeManager\Library.SerializeManager\obj\Debug\Library.SerializeManager.pdb
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\Library\SerializeManager\Library.SerializeManager\bin\Debug\Library.Core.dll
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\Library\SerializeManager\Library.SerializeManager\bin\Debug\Library.Core.pdb

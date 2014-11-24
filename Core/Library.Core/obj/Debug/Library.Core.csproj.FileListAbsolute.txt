@@ -1,0 +1,5 @@
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\Library\Core\Library.Core\obj\Debug\Library.Core.csprojResolveAssemblyReference.cache
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\Library\Core\Library.Core\bin\Debug\Library.Core.dll
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\Library\Core\Library.Core\bin\Debug\Library.Core.pdb
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\Library\Core\Library.Core\obj\Debug\Library.Core.dll
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\Library\Core\Library.Core\obj\Debug\Library.Core.pdb
